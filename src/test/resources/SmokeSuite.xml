@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Orange HRM Project">
+
+        <test name="Login Module Test">
+            <groups>
+                <run>
+                    <include name="smoke"></include>
+                </run>
+            </groups>
+            <classes>
+                <class name="testRunner.LoginPageTestRunner"></class>
+            </classes>
+        </test>
+        <test name="Employee Module Test">
+            <groups>
+                <run>
+                    <include name="smoke"></include>
+                </run>
+            </groups>
+            <classes>
+                <class name="testRunner.PIMPageTestRunner"></class>
+            </classes>
+        </test>
+        <test name="Employee Login,Search Info Update Test">
+            <groups>
+                <run>
+                    <include name="smoke"></include>
+                </run>
+            </groups>
+            <classes>
+                <class name="testRunner.AdminPageTestRunner"></class>
+            </classes>
+        </test>
+</suite>
