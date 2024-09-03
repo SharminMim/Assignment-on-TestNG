@@ -2,6 +2,5 @@
 build/
 gradle
 .idea
-gradlew/
 allure-report
 allure-results
