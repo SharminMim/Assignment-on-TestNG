@@ -25,6 +25,7 @@ For a strong password, please use a hard to guess combination of text with upper
 8. Scroll down and select Gender and Blood Type as O+ and save it. Then logout the user.
 
 ### Test Case
+https://docs.google.com/spreadsheets/d/1SoCNBBDXivMWM0ohF8oREC5JiAf8jdUqV4YYeZ9eByE/edit?usp=sharing
 
 ### Allure Report
 #### Overview 
@@ -34,3 +35,8 @@ For a strong password, please use a hard to guess combination of text with upper
 ![allureBehaviour](https://github.com/user-attachments/assets/1a9feabc-d2a8-43f1-b5bf-6b6796ce228e)
 
 ### Project Demonstration Video
+
+
+https://github.com/user-attachments/assets/04759b0d-b1bb-4709-ab6a-dc8aa9de3b5a
+
+
